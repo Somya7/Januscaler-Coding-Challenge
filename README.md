@@ -1,1 +1,17 @@
-How to install and run project: npm install npm run dev Assumptions: Janus server is running locally at: ws://localhost:8188/janus
+# Nuxt + Janus Mini Demo
+
+A simple Nuxt 3 demo to publish and view video streams using the Janus WebRTC Server.
+
+---
+
+## 🚀 Installation
+
+1. Clone the repository:
+
+```bash
+git clone <your-repo-url>
+cd <your-project-folder>
+npm install
+npm run dev
+
+http://localhost:3000/
