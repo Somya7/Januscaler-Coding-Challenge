@@ -9,7 +9,8 @@ A simple Nuxt 3 demo to publish and view video streams using the Janus WebRTC Se
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-url>
+git clone Januscaler-Coding-Challenge
+
 cd <your-project-folder>
 npm install
 npm run dev
