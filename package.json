@@ -1,0 +1,24 @@
+{
+    "name": "nuxt-janus-challenge",
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "nuxt dev",
+        "build": "nuxt build",
+        "start": "nuxt start",
+        "postinstall": "nuxt prepare"
+    },
+    "dependencies": {
+        "nuxt": "^4.0.0-rc.7",
+        "typed_janus_js": "^1.0.6"
+    },
+    "devDependencies": {
+        "@nuxtjs/tailwindcss": "^6.14.0",
+        "@types/node": "^20.14.9",
+        "autoprefixer": "^10.4.21",
+        "postcss": "^8.5.6",
+        "tailwindcss": "^3.4.17",
+        "typescript": "^5.5.4",
+        "vite-tsconfig-paths": "^5.1.4"
+    }
+}
